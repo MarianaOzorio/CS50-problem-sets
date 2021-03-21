@@ -23,7 +23,7 @@ Please respect the [Academic Honesty](https://cs50.harvard.edu/x/2020/honesty/)
 - [recover](https://github.com/MarianaOzorio/CS50-problem-sets/tree/main/pset4/recover)
 
 [Problem set 5: Data Structures](https://github.com/MarianaOzorio/CS50-problem-sets/tree/main/pset5)
--[speller](https://github.com/MarianaOzorio/CS50-problem-sets/tree/main/pset5/speller)
+- [speller](https://github.com/MarianaOzorio/CS50-problem-sets/tree/main/pset5/speller)
 
 [Problem set 6: Python](https://github.com/MarianaOzorio/CS50-problem-sets/tree/main/pset6)
 - [hello](https://github.com/MarianaOzorio/CS50-problem-sets/blob/2ac6150406c123bf6150f5f1c64f75b905ff05e1/pset6/hello.py)
